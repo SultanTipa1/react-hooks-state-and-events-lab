@@ -1,0 +1,10 @@
+/* Item.css */
+.in-cart {
+    text-decoration: line-through;
+    color: blueviolet;
+    /* Optional: change color to indicate it's in the cart */
+}
+
+.add {
+    color: green;
+}
